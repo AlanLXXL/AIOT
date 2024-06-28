@@ -11,3 +11,5 @@ Aritificial Intelligence of Things
 - 6 milliseconds limitation
 - non-preemptive scheduling （wait until it finished the CPU cycle)
 - micro-bit tutorial
+  1. block
+  2. python
