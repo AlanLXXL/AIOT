@@ -10,6 +10,7 @@ Aritificial Intelligence of Things
 - Event Driven (Block Programming)
 - 6 milliseconds limitation
 - non-preemptive scheduling （wait until it finished the CPU cycle)
+- micro-bit sensor different sensor input
 - micro-bit tutorial
   1. block
   2. python
