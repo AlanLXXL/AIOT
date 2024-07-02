@@ -14,3 +14,13 @@ Aritificial Intelligence of Things
 - micro-bit tutorial
   1. block
   2. python
+## Lecture 3
+- Single-board microcontroller part
+  1. Different Components in electronic components
+  2.  analogue-to-digital converter (ADC)
+  3.  Serial Communication
+  4.  Used as an Edge Connector
+## Lecture 4
+- Single-board computer part
+  1. Raspberry pi to handle more compact data information compared to micro-bit
+  
